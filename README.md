@@ -7,9 +7,10 @@ This repository has been refactored away from notebook-driven execution into loc
 ```text
 data/dentex/        Local DENTEX dataset root
 models/            YOLO base weights and selected trained weights
+notebooks/         Exploratory notebooks and generated figures
 pipelines/         Python pipeline scripts converted from the notebooks
 results/           Organised prediction, metric, bundle, and training-curve artefacts
-core/   Shared research code: paths, configs, experiments, CLI
+core/              Shared research code: paths, configs, experiments, CLI
 pyproject.toml     Local package metadata and tooling configuration
 requirements.txt   Python runtime requirements
 ```
