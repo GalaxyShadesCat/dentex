@@ -41,7 +41,7 @@ We conducted a multi-stage benchmarking process to establish a "Pareto Frontier"
 | NanoDet-m	 | 0.305	 | 6.1 | ShuffleNetV2 |
 | Tiny SSD	 | 0.160	 | 18.4	 | VGG16-Lite |
 
-## Explainable AI (XAI) & Clinical Trust
+## Explainable AI (XAI) 
 To bridge the gap between "Black Box" algorithms and clinical practitioners, we integrated two distinct interpretability layers. These ensure that the model’s predictions are based on relevant dental morphology rather than image noise.
 
 ### Clinical Activation Maps (Saliency)
